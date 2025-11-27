@@ -11,10 +11,10 @@ Throughout the course, I worked through a series of structured tasks—ranging f
 
 | Project Name | Live Links | Source Code | Repo
 |--------------|------------|-------------|----------|
-| Bono         | [View](https://bono-form.netlify.app/)     | [View](https://bono-source-code.netlify.app/)     | [view](https://github.com/Samia-T/Bono-Form)  |
-| Lumina       | [View](https://luminacreativefirstproject.netlify.app/)     | [View](https://lumina-source-code.netlify.app/)     | [view](https://github.com/Samia-T/lumina-creative) |
-| Tutor Site   | [View](https://tutor-website-dusky-two.vercel.app/)         | [View](https://modern-html-css-from-the-beginning.vercel.app/tutor-website/) | [view](https://github.com/Samia-T/Tutor-website)  |
-| Leno         | [View](https://leno-app-project.netlify.app/)     | [View](https://leno-source-code.netlify.app/)     | [view](https://github.com/Samia-T/Leno)  |
+| Bono         | [View](https://bono-form.netlify.app/)     | [View](https://bono-source-code.netlify.app/)     | [View](https://github.com/Samia-T/Bono-Form)  |
+| Lumina       | [View](https://luminacreativefirstproject.netlify.app/)     | [View](https://lumina-source-code.netlify.app/)     | [View](https://github.com/Samia-T/lumina-creative) |
+| Tutor Site   | [View](https://tutor-website-dusky-two.vercel.app/)         | [View](https://modern-html-css-from-the-beginning.vercel.app/tutor-website/) | [View](https://github.com/Samia-T/Tutor-website)  |
+| Leno         | [View](https://leno-app-project.netlify.app/)     | [View](https://leno-source-code.netlify.app/)     | [View](https://github.com/Samia-T/Leno)  |
 
 
 
